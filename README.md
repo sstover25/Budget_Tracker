@@ -38,7 +38,7 @@ The following images demonstrate the application functionality:
 
 You are required to submit the following for review:
 
-- The URL of the functional, deployed application:
+- The URL of the functional, deployed application: https://budget-tracker1234567.herokuapp.com/
 - The URL of the GitHub repository: https://github.com/sstover25/Budget_Tracker
 
 ---
